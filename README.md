@@ -1,6 +1,6 @@
 # adidas Vietnam VBA data processing #
 
-This VBA was built during my 6-month period working as adidas Vietnam as a business analyst for Franchise team. 
+This VBA was built during my 6-month period working at adidas Vietnam as a Business Analyst for Franchise team. 
 
 
 The function of this VBA file is to: 
